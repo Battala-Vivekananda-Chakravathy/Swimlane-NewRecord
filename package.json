@@ -1,0 +1,10 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Create a new record in Swimlane application",
+  "main": "HomePageObjectSpec.js",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
